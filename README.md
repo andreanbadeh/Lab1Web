@@ -110,9 +110,29 @@ Kemudian selanjutnya, buka file tersebut pada web browser untuk membuktikan hasi
 
 # 2. MENAMBAHKAN JUDUL
 Seperti sudah dijelaskan pada materi bahwa judul memiliki 6 level yaitu mulai h1 sampai h6. Kemudian tambahkan judul h1 sebelum paragraf pertama dan tambahkan sub judul h2 sebelum paragraf kedua.
-
-![gambar](https://raw.githubusercontent.com/M-Rakha/Lab1Web/4e24c5f10dff5082bd939ed2efb47a08f889dadc/Cuplikan%20layar%202025-09-23%20221115.png) 
-
+```<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <title>Lab1 - Tag Dasar HTML</title>
+</head>
+<body>
+<h1>BELAJAR DASAR HTML</h1>
+    <p>
+        SAYA <b>ANDREAN PUTRA ARYA</b> dengan <b>NIM 312410241</b> sedang belajar <mark>HTML dasar</mark>, pada matakuliah 
+        <b>Pemrograman Web1</b> di Prodi <i>Teknik Informatika Universitas Pelita Bangsa</i>. 
+        Pelajaran pertama yang kami dapat adalah membuat tampilan web sederhana 
+        dalam rangka mengenal tag-tag dasar HTML.
+    </p>
+<h2>PARAGRAF PADA HTML</h2>
+    <p>
+        Ini merupakan sebuah paragraf yang terdiri dari beberapa kalimat yang 
+        saling mendukung sehingga menjadi satu kesatuan. 
+        Paragraf dibuat dengan menggunakan tag dasar html.
+    </p>
+</body>
+</html>
+```
 Kemduian simpan, lalu kita liat hasilnya :
 
 ![gambar](https://raw.githubusercontent.com/M-Rakha/Lab1Web/4e24c5f10dff5082bd939ed2efb47a08f889dadc/Cuplikan%20layar%202025-09-23%20221128.png)
