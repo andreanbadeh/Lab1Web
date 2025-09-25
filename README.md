@@ -14,3 +14,72 @@ HTML (Hypertext Markup Language) adalah bahasa markup untuk membuat dan menampil
 - Document Type Declaration (DOCTYPE) untuk menentukan standar dokumen.
 - Header berisi info halaman (judul, meta, CSS, dll.).
 - Body berisi isi halaman web.
+
+Contoh pengaplikasiannya : 
+
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab1Web/24f45362fb507aa90e917b1454c30e706615da22/Cuplikan%20layar%202025-09-23%20220242.png)
+
+Kemudian selanjutnya, buka file tersebut pada web browser untuk membuktikan hasilnya :
+
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab1Web/bdf4751c448e85823e4b54ff29bf855569c85f62/Cuplikan%20layar%202025-09-23%20220310.png)
+
+# 1. MEMBUAT PARAGRAF
+
+Tag HTML adalah kode dalam kurung siku < >. Ada tag pembuka dan penutup, misalnya  ... /p. Beberapa tag tidak punya penutup seperti br/, img/.
+Paragraf dan pemisah baris :
+- p untuk membuat paragraf.
+- br untuk pindah baris.
+- hr untuk garis horizontal.
+
+Contoh pengaplikasiannya :
+
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab1Web/7da0a7923b09c518b7c947fcf83753b433d4f36e/Cuplikan%20layar%202025-09-23%20220927.png)
+
+Kemudian selanjutnya, buka file tersebut pada web browser untuk membuktikan hasilnya :
+
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab1Web/e657b8203e864d91421f643d6a4be90a63e48b42/Cuplikan%20layar%202025-09-23%20221000.png)
+
+Kemudian atur atribut paragraf seperti berikut, dan amati perubahanya :
+
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab1Web/c81cc7bcdd2ebc108cda4e2f7e3d04f60e4a03b1/Cuplikan%20layar%202025-09-23%20230427.png)
+
+Simpan kembali dan amati perubahannya dengan melakukan refresh pada web browser. Selanjutnya silakan ubah-ubah nilai atributnya (align => justify, left, right, dan center) untuk melihat perbedaan lainnya.
+
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab1Web/c81cc7bcdd2ebc108cda4e2f7e3d04f60e4a03b1/Cuplikan%20layar%202025-09-23%20230441.png)
+
+# 2. MENAMBAHKAN JUDUL
+Seperti sudah dijelaskan pada materi bahwa judul memiliki 6 level yaitu mulai h1 sampai h6. Kemudian tambahkan judul h1 sebelum paragraf pertama dan tambahkan sub judul h2 sebelum paragraf kedua.
+
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab1Web/4e24c5f10dff5082bd939ed2efb47a08f889dadc/Cuplikan%20layar%202025-09-23%20221115.png) 
+
+Kemduian simpan, lalu kita liat hasilnya :
+
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab1Web/4e24c5f10dff5082bd939ed2efb47a08f889dadc/Cuplikan%20layar%202025-09-23%20221128.png)
+
+
+# 3. MEMFORMAT TEKS
+Lakukan pemformatan teks yang ada pada paragraf yang sudah ada sebelumnya. Ada beberapa tag yang dapat digunakan untuk memformat teks pada paragraf, sehingga tampilannya seperti berikut.
+
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab1Web/50e0c9c24c5a169e85545e08cf2195e01e540689/Cuplikan%20layar%202025-09-23%20221538.png)
+
+Selanjutnya, mari kita lihat hasilnya :
+
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab1Web/50e0c9c24c5a169e85545e08cf2195e01e540689/Cuplikan%20layar%202025-09-23%20221552.png)
+
+# 4. Menyisipkan Gambar
+Untuk menyisipkan gmbar, siapkan gambar yang akan disisipkan pada halaman web, kemudian simpan file gambar tersebut satu folder dengan file dokumen html. Atau bisa juga menyisipkan gambar dari website external. Kemudian tambahkan tag img setelah paragraf yang kedua, dengan menambahkan heading 3 sebelumnya. Gambar akan ditampilkan apa adanya sesuai dengan ukuran aslinya. Untuk mengatur ukuran gambar, dapat digunakan atribut witdh dan height dengan nilai integer yang disesuaikan.
+
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab1Web/73203a1509abda1a5f5ee589aecb49e8db73bf1a/Cuplikan%20layar%202025-09-23%20222251.png)
+
+Simpan perubahannya, kemudian refresh browser.
+
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab1Web/73203a1509abda1a5f5ee589aecb49e8db73bf1a/Cuplikan%20layar%202025-09-23%20222306.png)
+
+# 5. Menambahkan Hyperlink
+Tambahkan hyperlink pada dokumen sebelum heading 1 seperti berikut.
+
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab1Web/fcbc8013e37c6a2ef54225a4d2df435400ff3bee/Cuplikan%20layar%202025-09-23%20222522.png)
+
+Buat satu file lagi dengan nama lab1_halaman2.html kemudian isi dokumen tersebut dengan tag html dasar dan dengan isi bebas, boleh mengcopy dari halaman sebelumnya.
+
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab1Web/fcbc8013e37c6a2ef54225a4d2df435400ff3bee/Cuplikan%20layar%202025-09-23%20222542.png)
