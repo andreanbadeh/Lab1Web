@@ -8,6 +8,48 @@ KELAS : TI.24.A.4
 
 MATKUL : PEMROGRAMAN WEB 1
 
+# SOURCE CODE NYA
+```
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <title>Lab1 - Tag Dasar HTML</title>
+</head>
+<body>
+    <nav>
+        <a href="lab1_tag_dasar.html">Dasar HTML</a> |
+        <a href="lab1_halaman2.html">Halaman 2</a> |
+        <a href="http://www.google.com" target="_blank">Halaman Web Eksternal Google</a> |
+        <a href="profil.html">Profil Andrean Putra</a> |
+    </nav>
+    <hr>
+    <h1>BELAJAR DASAR HTML</h1>
+    <p>
+        SAYA <b>ANDREAN PUTRA ARYA</b> dengan <b>NIM 312410241</b> sedang belajar <mark>HTML dasar</mark>, pada matakuliah 
+        <b>Pemrograman Web1</b> di Prodi <i>Teknik Informatika Universitas Pelita Bangsa</i>. 
+        Pelajaran pertama yang kami dapat adalah membuat tampilan web sederhana 
+        dalam rangka mengenal tag-tag dasar HTML.
+    </p>
+    <h2>PARAGRAF PADA HTML</h2>
+    <p>
+        Ini merupakan sebuah paragraf yang terdiri dari beberapa kalimat yang 
+        saling mendukung sehingga menjadi satu kesatuan. 
+        Paragraf dibuat dengan menggunakan tag dasar html.
+    </p>
+    <h3>MENAMBAHKAN GAMBAR</h3>
+    <img src="images/Logo-UPB.png" width="250" 
+         title="Logo Universitas Pelita Bangsa" 
+         alt="Logo UPB">
+
+    <img src="images/Logoo.jpg" width="250"
+        title="Logo Andrean Putra"
+        alt="Logoo">
+
+</body>
+</html>
+```
+
 # MODUL PRAKTIKUM PEMROGRANAN WEB
 
 HTML (Hypertext Markup Language) adalah bahasa markup untuk membuat dan menampilkan halaman web. Struktur dasar HTML terdiri dari :
