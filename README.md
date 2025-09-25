@@ -63,7 +63,7 @@ Contoh pengaplikasiannya :
 
 Kemudian selanjutnya, buka file tersebut pada web browser untuk membuktikan hasilnya :
 
-![gambar](https://raw.githubusercontent.com/M-Rakha/Lab1Web/bdf4751c448e85823e4b54ff29bf855569c85f62/Cuplikan%20layar%202025-09-23%20220310.png)
+![gambar](https://github.com/andreanbadeh/Lab1Web/blob/0d1dc9756264aa73de3e2dce67416c97de2eed56/images/Screenshot%20from%202025-09-25%2013-11-07.png)
 
 # 1. MEMBUAT PARAGRAF
 
