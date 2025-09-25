@@ -110,7 +110,8 @@ Kemudian selanjutnya, buka file tersebut pada web browser untuk membuktikan hasi
 
 # 2. MENAMBAHKAN JUDUL
 Seperti sudah dijelaskan pada materi bahwa judul memiliki 6 level yaitu mulai h1 sampai h6. Kemudian tambahkan judul h1 sebelum paragraf pertama dan tambahkan sub judul h2 sebelum paragraf kedua.
-```<!DOCTYPE html>
+```
+<!DOCTYPE html>
 <html lang="id">
 <head>
     <meta charset="UTF-8">
@@ -119,8 +120,8 @@ Seperti sudah dijelaskan pada materi bahwa judul memiliki 6 level yaitu mulai h1
 <body>
 <h1>BELAJAR DASAR HTML</h1>
     <p>
-        SAYA <b>ANDREAN PUTRA ARYA</b> dengan <b>NIM 312410241</b> sedang belajar <mark>HTML dasar</mark>, pada matakuliah 
-        <b>Pemrograman Web1</b> di Prodi <i>Teknik Informatika Universitas Pelita Bangsa</i>. 
+        SAYA ANDREAN PUTRA ARYA dengan NIM 312410241 sedang belajar HTML dasar, pada matakuliah 
+        Pemrograman Web1 di Prodi Teknik Informatika Universitas Pelita Bangsa. 
         Pelajaran pertama yang kami dapat adalah membuat tampilan web sederhana 
         dalam rangka mengenal tag-tag dasar HTML.
     </p>
