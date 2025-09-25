@@ -166,7 +166,7 @@ Lakukan pemformatan teks yang ada pada paragraf yang sudah ada sebelumnya. Ada b
 ```
 Selanjutnya, mari kita lihat hasilnya :
 
-![gambar](https://raw.githubusercontent.com/M-Rakha/Lab1Web/50e0c9c24c5a169e85545e08cf2195e01e540689/Cuplikan%20layar%202025-09-23%20221552.png)
+![gambar](https://github.com/andreanbadeh/Lab1Web/blob/38c7b88acc5226ced271120d512e5ba7d72c2ee3/images/Screenshot%20from%202025-09-25%2013-24-55.png)
 
 # 4. Menyisipkan Gambar
 Untuk menyisipkan gmbar, siapkan gambar yang akan disisipkan pada halaman web, kemudian simpan file gambar tersebut satu folder dengan file dokumen html. Atau bisa juga menyisipkan gambar dari website external. Kemudian tambahkan tag img setelah paragraf yang kedua, dengan menambahkan heading 3 sebelumnya. Gambar akan ditampilkan apa adanya sesuai dengan ukuran aslinya. Untuk mengatur ukuran gambar, dapat digunakan atribut witdh dan height dengan nilai integer yang disesuaikan.
