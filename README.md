@@ -210,9 +210,46 @@ Simpan perubahannya, kemudian refresh browser.
 
 # 5. Menambahkan Hyperlink
 Tambahkan hyperlink pada dokumen sebelum heading 1 seperti berikut.
+```
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <title>Lab1 - Tag Dasar HTML</title>
+</head>
+<body>
+    <nav>
+        <a href="lab1_tag_dasar.html">Dasar HTML</a> |
+        <a href="lab1_halaman2.html">Halaman 2</a> |
+        <a href="http://www.google.com" target="_blank">Halaman Web Eksternal Google</a> |
+        <a href="profil.html">Profil Andrean Putra</a> |
+    </nav>
+    <hr>
+    <h1>BELAJAR DASAR HTML</h1>
+    <p>
+        SAYA <b>ANDREAN PUTRA ARYA</b> dengan <b>NIM 312410241</b> sedang belajar <mark>HTML dasar</mark>, pada matakuliah 
+        <b>Pemrograman Web1</b> di Prodi <i>Teknik Informatika Universitas Pelita Bangsa</i>. 
+        Pelajaran pertama yang kami dapat adalah membuat tampilan web sederhana 
+        dalam rangka mengenal tag-tag dasar HTML.
+    </p>
+    <h2>PARAGRAF PADA HTML</h2>
+    <p>
+        Ini merupakan sebuah paragraf yang terdiri dari beberapa kalimat yang 
+        saling mendukung sehingga menjadi satu kesatuan. 
+        Paragraf dibuat dengan menggunakan tag dasar html.
+    </p>
+    <h3>MENAMBAHKAN GAMBAR</h3>
+    <img src="images/Logo-UPB.png" width="250" 
+         title="Logo Universitas Pelita Bangsa" 
+         alt="Logo UPB">
 
-![gambar](https://raw.githubusercontent.com/M-Rakha/Lab1Web/fcbc8013e37c6a2ef54225a4d2df435400ff3bee/Cuplikan%20layar%202025-09-23%20222522.png)
+    <img src="images/Logoo.jpg" width="250"
+        title="Logo Andrean Putra"
+        alt="Logoo">
 
+</body>
+</html>
+```
 Buat satu file lagi dengan nama lab1_halaman2.html kemudian isi dokumen tersebut dengan tag html dasar dan dengan isi bebas, boleh mengcopy dari halaman sebelumnya.
 
 ![gambar](https://raw.githubusercontent.com/M-Rakha/Lab1Web/fcbc8013e37c6a2ef54225a4d2df435400ff3bee/Cuplikan%20layar%202025-09-23%20222542.png)
