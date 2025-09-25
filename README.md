@@ -58,8 +58,18 @@ HTML (Hypertext Markup Language) adalah bahasa markup untuk membuat dan menampil
 - Body berisi isi halaman web.
 
 Contoh pengaplikasiannya : 
+```
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <title>Lab1 - Tag Dasar HTML</title>
+</head>
+<body>
 
-![gambar](https://github.com/andreanbadeh/Lab1Web/blob/37a82b318bbbec6abceb5781b4ba0763086461a1/images/Screenshot%20from%202025-09-25%2013-08-54.png)
+</body>
+</html>
+```
 
 Kemudian selanjutnya, buka file tersebut pada web browser untuk membuktikan hasilnya :
 
