@@ -59,7 +59,7 @@ HTML (Hypertext Markup Language) adalah bahasa markup untuk membuat dan menampil
 
 Contoh pengaplikasiannya : 
 
-![gambar](https://raw.githubusercontent.com/M-Rakha/Lab1Web/24f45362fb507aa90e917b1454c30e706615da22/Cuplikan%20layar%202025-09-23%20220242.png)
+![gambar](https://github.com/andreanbadeh/Lab1Web/blob/37a82b318bbbec6abceb5781b4ba0763086461a1/images/Screenshot%20from%202025-09-25%2013-08-54.png)
 
 Kemudian selanjutnya, buka file tersebut pada web browser untuk membuktikan hasilnya :
 
