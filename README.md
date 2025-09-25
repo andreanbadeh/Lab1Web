@@ -140,9 +140,30 @@ Kemduian simpan, lalu kita liat hasilnya :
 
 # 3. MEMFORMAT TEKS
 Lakukan pemformatan teks yang ada pada paragraf yang sudah ada sebelumnya. Ada beberapa tag yang dapat digunakan untuk memformat teks pada paragraf, sehingga tampilannya seperti berikut.
-
-![gambar](https://raw.githubusercontent.com/M-Rakha/Lab1Web/50e0c9c24c5a169e85545e08cf2195e01e540689/Cuplikan%20layar%202025-09-23%20221538.png)
-
+```
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <title>Lab1 - Tag Dasar HTML</title>
+</head>
+<body>
+<h1>BELAJAR DASAR HTML</h1>
+    <p>
+        SAYA <b>ANDREAN PUTRA ARYA</b> dengan <b>NIM 312410241</b> sedang belajar <mark>HTML dasar</mark>, pada matakuliah 
+        <b>Pemrograman Web1</b> di Prodi <i>Teknik Informatika Universitas Pelita Bangsa</i>. 
+        Pelajaran pertama yang kami dapat adalah membuat tampilan web sederhana 
+        dalam rangka mengenal tag-tag dasar HTML.
+    </p>
+<h2>PARAGRAF PADA HTML</h2>
+    <p>
+        Ini merupakan sebuah paragraf yang terdiri dari beberapa kalimat yang 
+        saling mendukung sehingga menjadi satu kesatuan. 
+        Paragraf dibuat dengan menggunakan tag dasar html.
+    </p>
+</body>
+</html>
+```
 Selanjutnya, mari kita lihat hasilnya :
 
 ![gambar](https://raw.githubusercontent.com/M-Rakha/Lab1Web/50e0c9c24c5a169e85545e08cf2195e01e540689/Cuplikan%20layar%202025-09-23%20221552.png)
