@@ -252,4 +252,4 @@ Tambahkan hyperlink pada dokumen sebelum heading 1 seperti berikut.
 ```
 Buat satu file lagi dengan nama lab1_halaman2.html kemudian isi dokumen tersebut dengan tag html dasar dan dengan isi bebas, boleh mengcopy dari halaman sebelumnya.
 
-![gambar](https://raw.githubusercontent.com/M-Rakha/Lab1Web/fcbc8013e37c6a2ef54225a4d2df435400ff3bee/Cuplikan%20layar%202025-09-23%20222542.png)
+![gambar](https://github.com/andreanbadeh/Lab1Web/blob/89e7b0aa02e031d22b25d8e48e812bb227fd0ad6/images/Screenshot%20from%202025-09-25%2013-36-59.png)
