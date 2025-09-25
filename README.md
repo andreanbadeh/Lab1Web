@@ -108,14 +108,6 @@ Kemudian selanjutnya, buka file tersebut pada web browser untuk membuktikan hasi
 
 ![gambar](https://github.com/andreanbadeh/Lab1Web/blob/8c343f6dd573d88b21860bb2e9ceda27a4b9b017/images/Screenshot%20from%202025-09-25%2013-19-43.png)
 
-Kemudian atur atribut paragraf seperti berikut, dan amati perubahanya :
-
-![gambar](https://raw.githubusercontent.com/M-Rakha/Lab1Web/c81cc7bcdd2ebc108cda4e2f7e3d04f60e4a03b1/Cuplikan%20layar%202025-09-23%20230427.png)
-
-Simpan kembali dan amati perubahannya dengan melakukan refresh pada web browser. Selanjutnya silakan ubah-ubah nilai atributnya (align => justify, left, right, dan center) untuk melihat perbedaan lainnya.
-
-![gambar](https://raw.githubusercontent.com/M-Rakha/Lab1Web/c81cc7bcdd2ebc108cda4e2f7e3d04f60e4a03b1/Cuplikan%20layar%202025-09-23%20230441.png)
-
 # 2. MENAMBAHKAN JUDUL
 Seperti sudah dijelaskan pada materi bahwa judul memiliki 6 level yaitu mulai h1 sampai h6. Kemudian tambahkan judul h1 sebelum paragraf pertama dan tambahkan sub judul h2 sebelum paragraf kedua.
 
