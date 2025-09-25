@@ -170,8 +170,39 @@ Selanjutnya, mari kita lihat hasilnya :
 
 # 4. Menyisipkan Gambar
 Untuk menyisipkan gmbar, siapkan gambar yang akan disisipkan pada halaman web, kemudian simpan file gambar tersebut satu folder dengan file dokumen html. Atau bisa juga menyisipkan gambar dari website external. Kemudian tambahkan tag img setelah paragraf yang kedua, dengan menambahkan heading 3 sebelumnya. Gambar akan ditampilkan apa adanya sesuai dengan ukuran aslinya. Untuk mengatur ukuran gambar, dapat digunakan atribut witdh dan height dengan nilai integer yang disesuaikan.
+```
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <title>Lab1 - Tag Dasar HTML</title>
+</head>
+<body>
+<h1>BELAJAR DASAR HTML</h1>
+    <p>
+        SAYA <b>ANDREAN PUTRA ARYA</b> dengan <b>NIM 312410241</b> sedang belajar <mark>HTML dasar</mark>, pada matakuliah 
+        <b>Pemrograman Web1</b> di Prodi <i>Teknik Informatika Universitas Pelita Bangsa</i>. 
+        Pelajaran pertama yang kami dapat adalah membuat tampilan web sederhana 
+        dalam rangka mengenal tag-tag dasar HTML.
+    </p>
+<h2>PARAGRAF PADA HTML</h2>
+    <p>
+        Ini merupakan sebuah paragraf yang terdiri dari beberapa kalimat yang 
+        saling mendukung sehingga menjadi satu kesatuan. 
+        Paragraf dibuat dengan menggunakan tag dasar html.
+    </p>
+<h3>MENAMBAH![gambar](https://raw.githubusercontent.com/M-Rakha/Lab1Web/73203a1509abda1a5f5ee589aecb49e8db73bf1a/Cuplikan%20layar%202025-09-23%20222251.png)KAN GAMBAR</h3>
+    <img src="images/Logo-UPB.png" width="250" 
+         title="Logo Universitas Pelita Bangsa" 
+         alt="Logo UPB">
 
-![gambar](https://raw.githubusercontent.com/M-Rakha/Lab1Web/73203a1509abda1a5f5ee589aecb49e8db73bf1a/Cuplikan%20layar%202025-09-23%20222251.png)
+    <img src="images/Logoo.jpg" width="250"
+        title="Logo Andrean Putra"
+        alt="Logoo">
+
+</body>
+</html>
+```
 
 Simpan perubahannya, kemudian refresh browser.
 
