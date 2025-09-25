@@ -50,7 +50,7 @@ MATKUL : PEMROGRAMAN WEB 1
 </html>
 ```
 
-# MODUL PRAKTIKUM PEMROGRANAN WEB
+# MODUL PRAKTIKUM PEMROGRANAN WEB SERTA PENJELASAN CODE TERSEBUT
 
 HTML (Hypertext Markup Language) adalah bahasa markup untuk membuat dan menampilkan halaman web. Struktur dasar HTML terdiri dari :
 - Document Type Declaration (DOCTYPE) untuk menentukan standar dokumen.
