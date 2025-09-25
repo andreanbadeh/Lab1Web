@@ -136,7 +136,7 @@ Seperti sudah dijelaskan pada materi bahwa judul memiliki 6 level yaitu mulai h1
 ```
 Kemduian simpan, lalu kita liat hasilnya :
 
-![gambar](https://github.com/andreanbadeh/Lab1Web/blob/58261f2ad7fed41c5e577efa6e8af1a4a700203d/images/Screenshot%20from%202025-09-25%2013-24-55.png)
+![gambar](https://github.com/andreanbadeh/Lab1Web/blob/6807241faa0760417b55e655659a8f5097d60094/images/Screenshot%20from%202025-09-25%2013-29-29.png)
 
 # 3. MEMFORMAT TEKS
 Lakukan pemformatan teks yang ada pada paragraf yang sudah ada sebelumnya. Ada beberapa tag yang dapat digunakan untuk memformat teks pada paragraf, sehingga tampilannya seperti berikut.
