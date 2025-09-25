@@ -8,7 +8,7 @@ KELAS : TI.24.A.4
 
 MATKUL : PEMROGRAMAN WEB 1
 
-# SOURCE CODE NYA
+# SOURCE CODE HTML
 ```
 <!DOCTYPE html>
 <html lang="id">
