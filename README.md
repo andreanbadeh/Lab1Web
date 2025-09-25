@@ -106,7 +106,7 @@ Paragraf dibuat dengan menggunakan tag dasar html.</p>
 
 Kemudian selanjutnya, buka file tersebut pada web browser untuk membuktikan hasilnya :
 
-![gambar](https://raw.githubusercontent.com/M-Rakha/Lab1Web/e657b8203e864d91421f643d6a4be90a63e48b42/Cuplikan%20layar%202025-09-23%20221000.png)
+![gambar](https://github.com/andreanbadeh/Lab1Web/blob/8c343f6dd573d88b21860bb2e9ceda27a4b9b017/images/Screenshot%20from%202025-09-25%2013-19-43.png)
 
 Kemudian atur atribut paragraf seperti berikut, dan amati perubahanya :
 
