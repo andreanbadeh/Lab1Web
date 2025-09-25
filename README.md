@@ -84,8 +84,25 @@ Paragraf dan pemisah baris :
 - hr untuk garis horizontal.
 
 Contoh pengaplikasiannya :
+```
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <title>Lab1 - Tag Dasar HTML</title>
+</head>
+<body>
+<p>SAYA ANDREAN PUTRA ARYA dengan NIM 312410241 sedang belajar HTML dasar, pada matakuliah 
+Pemrograman Web1 di Prodi Teknik Informatika Universitas Pelita Bangsa. 
+Pelajaran pertama yang kami dapat adalah membuat tampilan web sederhana 
+dalam rangka mengenal tag-tag dasar HTML.</p>
 
-![gambar](https://raw.githubusercontent.com/M-Rakha/Lab1Web/7da0a7923b09c518b7c947fcf83753b433d4f36e/Cuplikan%20layar%202025-09-23%20220927.png)
+<p>Ini merupakan sebuah paragraf yang terdiri dari beberapa kalimat yang 
+saling mendukung sehingga menjadi satu kesatuan. 
+Paragraf dibuat dengan menggunakan tag dasar html.</p>
+</body>
+</html>
+```
 
 Kemudian selanjutnya, buka file tersebut pada web browser untuk membuktikan hasilnya :
 
