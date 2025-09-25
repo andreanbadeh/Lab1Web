@@ -206,7 +206,7 @@ Untuk menyisipkan gmbar, siapkan gambar yang akan disisipkan pada halaman web, k
 
 Simpan perubahannya, kemudian refresh browser.
 
-![gambar](https://raw.githubusercontent.com/M-Rakha/Lab1Web/73203a1509abda1a5f5ee589aecb49e8db73bf1a/Cuplikan%20layar%202025-09-23%20222306.png)
+![gambar](https://github.com/andreanbadeh/Lab1Web/blob/869013dfb5a9820f66a0b3dfbf5158e3ed569b20/images/Screenshot%20from%202025-09-25%2013-33-52.png)
 
 # 5. Menambahkan Hyperlink
 Tambahkan hyperlink pada dokumen sebelum heading 1 seperti berikut.
